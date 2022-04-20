@@ -1,0 +1,3 @@
+Link para download do Git: https://git-scm.com/downloads
+	1° dia usando o repositorio: craindo o repositorio remoto e experimentando ele
+	
