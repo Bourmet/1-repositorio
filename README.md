@@ -6,4 +6,4 @@ Bootcamp da DIO
 [Compressor de imagens](https://tinypng.com)
 
 ## Projetos 
-[Primeiro html](localhost/projh.html)
+[Primeiro html](localhost/projh.html) Ainda fora de uso
