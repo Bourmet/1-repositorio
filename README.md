@@ -2,7 +2,7 @@
 Bootcamp da DIO
 
 ## Links uteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/) <br/>
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/) target="_blank" <br/>
 [Compressor de imagens](https://tinypng.com)
 
 ## Projetos 
